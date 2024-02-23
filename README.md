@@ -4,7 +4,8 @@
 ----
 
 apple division
-![image](https://hackmd.io/_uploads/B13PTqDo6.png)
+![image](https://github.com/Stonyxi/CP/assets/126449424/9895fbc0-7ab1-4622-a7f9-5b9a685a87d5)
+
 
 -------
 tower of hanoi 
