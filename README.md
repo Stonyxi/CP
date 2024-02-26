@@ -7,20 +7,22 @@ apple division
 
 
 -------
-tower of hanoi 
-![image](https://hackmd.io/_uploads/H17JYNMn6.png)
+tower of hanoi (recursive)
+![image](https://github.com/Stonyxi/CP/assets/126449424/62099590-281d-425f-b1d5-0ed70a415de3)
 
 -------
 collect number
-![image](https://hackmd.io/_uploads/HJPVFEM3p.png)
+![image](https://github.com/Stonyxi/CP/assets/126449424/f9147838-7be5-4d3b-901e-2d9234186d57)
+
 
 
 ------
-Chessboard and Queens
+Chessboard and Queens (dfs)
 ![image](https://hackmd.io/_uploads/rJJNvEf2a.png)
 
 ------
-grid path
+grid path (dfs)
+![image](https://github.com/Stonyxi/CP/assets/126449424/f781a6b7-d24f-4150-bc29-c509f07ed88f)
 
 
 ------
