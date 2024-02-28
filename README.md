@@ -9,9 +9,8 @@ apple division(recursive)
 tower of hanoi (recursive)
 ![image](https://github.com/Stonyxi/CP/assets/126449424/62099590-281d-425f-b1d5-0ed70a415de3)
 
--------
-collect number
-![image](https://github.com/Stonyxi/CP/assets/126449424/f9147838-7be5-4d3b-901e-2d9234186d57)
+------
+Collecting Numbers II
 
 ------
 Chessboard and Queens (dfs)
@@ -31,9 +30,6 @@ low集合大小 >= up集合大小 ，下層集合的最大值則是中位數
 插入時，將傳入值與目前中位數進行比較，如果大於中位數，則將其放入上集合，否則放入下集合。如果一組的填充量超過其最大大小，則將元素轉移到另一組
 用multiset維護窗口，複雜度o(N*log k) 因set插入o(log k)
 
-
-sorting and searching
-------
 ------
 ------
 ------
