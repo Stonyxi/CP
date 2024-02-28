@@ -2,7 +2,7 @@
 ====
 ----
 
-apple division
+apple division(recursive)
 ![image](https://github.com/Stonyxi/CP/assets/126449424/9895fbc0-7ab1-4622-a7f9-5b9a685a87d5)
 
 -------
@@ -16,6 +16,9 @@ collect number
 ------
 Chessboard and Queens (dfs)
 ![image](https://hackmd.io/_uploads/rJJNvEf2a.png)
+![image](https://github.com/Stonyxi/CP/assets/126449424/4cd9ba16-21cb-468a-b5c8-c702dc22a383)
+![image](https://github.com/Stonyxi/CP/assets/126449424/75aa1ed2-f2a0-4e75-a110-510285751625)
+
 
 ------
 grid path (dfs)
