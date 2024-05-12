@@ -13,7 +13,7 @@ string convert(string s, int numRows) {
 	}
 	
     while (x < len) {
-        if( column % (row - 1) == 0) {
+        if( column==0 || column % (row - 1) == 0) {
             for (int i = 0; i < row && x < len; i++){
                 grip[i][column] = s[x++];
             }
