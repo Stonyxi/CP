@@ -25,5 +25,5 @@ ListNode* swapPairs(ListNode* head) {
 	}        
 	return fixhead->next;
 }
-
-
+//link-list重排，操控方向
+//cur->next改變後面要注意，cur本身指的不變
